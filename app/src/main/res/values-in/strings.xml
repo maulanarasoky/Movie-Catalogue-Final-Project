@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue (Final Project)</string>
+    <string name="movie">Film</string>
+    <string name="tvShow">Acara Tv</string>
+    <string name="settings">Pengaturan</string>
+    <string name="ratingBar">Peringkat</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="watch">Tonton</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="genres">Genre</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="runtime">Durasi (menit)</string>
+    <string name="production_companies">Diproduksi Perusahaan</string>
+    <string name="production_countries">Diproduksi Kota</string>
+    <string name="_9_0">9.0</string>
+    <string name="favorite">Favorit</string>
+    <string name="vote_average">Voting</string>
+    <string name="add_to_favorite">Tambah Favorit</string>
+    <string name="success_add">Berhasil menambahkan favorit</string>
+    <string name="failed_add">Gagal menambahkan favorit</string>
+    <string name="remove_favorite">Hapus Favorit</string>
+    <string name="notify_ques_delete">Apakah anda yakin ingin menghapus nya ?</string>
+    <string name="notify_failed_delete_data">Gagal menghapus data</string>
+    <string name="notify_delete_mov">Hapus Film</string>
+    <string name="notify_delete_tv">Hapus Acara Tv</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="favorite_movie">Film Favorit</string>
+    <string name="favorite_tv">Acara Tv Favorit</string>
+    <string name="appwidget_text">STAR WARS BANNER</string>
+    <string name="empty_text">NO DATA</string>
+</resources>

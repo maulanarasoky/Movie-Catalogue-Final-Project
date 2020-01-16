@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/movie"
+        android:icon="@drawable/ic_local_movies_black_24dp"
+        android:title="@string/movie" />
+
+    <item
+        android:id="@+id/tvShow"
+        android:icon="@drawable/ic_live_tv_black_24dp"
+        android:title="@string/tvShow" />
+
+    <item
+        android:id="@+id/favorite_movie"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/favorite_movie" />
+
+    <item
+        android:id="@+id/favorite_tv"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/favorite_tv" />
+
+</menu>
